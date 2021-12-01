@@ -1,0 +1,16 @@
+{
+  "name": "proyecto_nuevo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Enrique Sardon <ensarman@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-htmlmin": "^5.0.1"
+  },
+  "scripts": {
+    "gulp": "gulp"
+  }
+}
